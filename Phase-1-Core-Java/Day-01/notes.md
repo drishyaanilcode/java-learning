@@ -1,16 +1,24 @@
-# Java Learning Journey
+## Day 1 – Java Basics
 
-This repository documents my structured Java learning path from Core Java fundamentals to advanced backend development.
+### Key Concepts
+- Java is platform-independent because of the JVM.
+- Java programs are compiled into bytecode.
+- Program execution starts from the main method.
 
-## Repository Structure
-- Phase-1-Core-Java → Java fundamentals and basic programs
-- Phase-2-Intermediate-Java → Modern Java and collections
-- Phase-3-Advanced-Java → JVM, concurrency, and performance
-- Phase-4-Enterprise-Java → Spring, REST APIs, databases
+### JVM, JRE, JDK
+- JDK is used to write and compile Java programs.
+- JRE provides the runtime environment.
+- JVM executes bytecode and manages memory.
 
-## Current Focus
-Phase 1 – Core Java fundamentals (syntax, OOP, variables, control flow)
+### OOP Basics
+- A class is a blueprint used to create objects.
+- An object is an instance of a class created in memory.
+- A method is a block of code that performs a specific task.
 
-## Goal
-To become a strong Java / application support developer with solid fundamentals and practical coding skills.
+### Variables
+- A variable is a named memory location used to store data.
+- Local variables are stored in stack memory.
 
+### Practice
+- Wrote HelloWorld program
+- Practiced Even/Odd logic
